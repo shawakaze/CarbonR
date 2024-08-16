@@ -1,0 +1,14 @@
+
+[font]
+
+size = 8
+
+bold = {family = "Hurmit Nerd Font", style = "Bold"}
+
+bold_italic = {family = "Hurmit Nerd Font Propo", style = "Bold Italic"}
+
+italic = {family = "Hurmit Nerd Font", style = "Italic"}
+
+normal = {family = "Hurmit Nerd Font Mono", style = "Regular"}
+
+builtin_box_drawing = true
